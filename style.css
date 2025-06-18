@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #161616;
+    height: 6%;
+    position: sticky;
+    padding-top: 15px;
+}
+
+.name {
+    margin-left: 1%;
+    font-family: 'Huninn', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
